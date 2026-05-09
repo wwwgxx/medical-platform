@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer-core": "^24.43.0"
+  },
+  "name": "medical-platform",
+  "version": "1.0.0",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
